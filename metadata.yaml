@@ -1,0 +1,69 @@
+_repo: Dorothy-and-the-Wizard-in-Oz_22566
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 22566-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Dorothy and the Wizard in Oz is the fourth book set in the Land of Oz
+  written by L. Frank Baum. It was published on June 18, 1908 and reunites Dorothy
+  with the humbug Wizard from The Wonderful Wizard of Oz. Baum, having resigned himself
+  to writing a series of Oz books, set up elements of this book in the prior Ozma
+  of Oz. He was not entirely pleased with this, as the introduction to Dorothy and
+  the Wizard of Oz opens with the protest that he knows many tales of many lands,
+  and hoped that children would permit him to tell them those tales ...
+gutenberg_bookshelf:
+- Fantasy
+- Children's Literature
+gutenberg_issued: '2007-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Dragons -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Earthquakes -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Nephews -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Piglets -- Juvenile fiction'
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kittens -- Juvenile fiction'
+- !lcsh 'Trials -- Juvenile fiction'
+title: Dorothy and the Wizard in Oz
+url: http://www.gutenberg.org/ebooks/22566
